@@ -1,6 +1,6 @@
 # Malibu
 
-TODO: Write a gem description
+The First Ever Complete DDP Client for Ruby. Build out your Meteor applications confidently and manipulate things like never before with Malibu. 
 
 ## Installation
 
@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Coming Soon
 
 ## Contributing
 
