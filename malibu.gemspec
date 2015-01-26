@@ -8,8 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Malibu::VERSION
   spec.authors       = ["Raul Jordan"]
   spec.email         = ["raulitojordan@gmail.com"]
-  spec.summary       = %q{This is a cool gem.}
-  spec.description   = %q{Awesome gemmm.}
+  spec.summary       = %q{A Ruby optimized DDP Client for Meteor.js Applications}
+  spec.description   = %q{Connect remotely and securely to Meteorjs apps through DDP 
+                          and access server methods through websockets reactively}
   spec.homepage      = ""
   spec.license       = "MIT"
 
